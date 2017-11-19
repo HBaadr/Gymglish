@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gymglish</string>
+    <string name="gymglish">Gymglish</string>
+    <string name="the_rich_morning_show">The Rich Morning Show</string>
+    <string name="the_word_of_the_month">The Word of the Month</string>
+    <string name="frantastique_orthographe">Frantastique Orthographe</string>
+    <string name="cpf_anglais">CPF Anglais</string>
+    <string name="the_delavigne_corporation">The Delavigne Corporation</string>
+    <string name="va_te_faire_conjuguer">Va te faire conjuguer</string>
+    <string name="work_sweet_work">Work Sweet Work</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+</resources>
